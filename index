@@ -4,6 +4,6 @@
       <title> HOLA GENTE !</title>
    </head>
       <body>
-         <script src='index.js'></script> 
+         <script src='saludo.js'></script> 
       </body>
 </html>
